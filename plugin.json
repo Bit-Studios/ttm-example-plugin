@@ -1,4 +1,4 @@
 {
     "name":"example plugin",
-    "indexjs":""
+    "indexjs":"https://raw.githubusercontent.com/Bit-Studios/ttm-example-plugin/master/index.js"
 }
